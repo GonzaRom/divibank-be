@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DivibankAssignment.Domain": {
+      "commandName": "Project"
+    }
+  }
+}
